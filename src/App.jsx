@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Product Dashboard</h1>
+      <h1>{/* TODO: Add 'Product Dashboard' title here */}</h1>
       
       {/* TODO: Add buttons to allow filtering by availability */}
 
