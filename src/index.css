@@ -1,6 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-variant: small-caps;
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: #eee9e5;
   text-align: center;
+}
+
+h1 {
+  font-size: 40px;
 }

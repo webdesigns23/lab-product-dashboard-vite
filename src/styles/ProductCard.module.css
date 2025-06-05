@@ -1,3 +1,25 @@
 /* TODO: Style the product card container */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
 
+.name {
+  font-size: 2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 8px 0;
+}
+.price {
+  color: #1a67b9;
+}
 /* TODO: Add special styling for out-of-stock products */
+.inStock {
+	color: rgb(32, 90, 72);
+}
+.outOfStock {
+	color: rgb(182, 21, 43);
+}
+
+
